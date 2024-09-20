@@ -1,0 +1,136 @@
+﻿SampleID,Year,Month,Latitude[degreesNorth],Longitude[degreesEast],SamplingDepth[m],LayerOfOrigin,MarinePelagicBiomes,OceanAndSeaRegion,MarinePelagicProvince
+TARA_004_DCM_0_22-1_6,2009,9,36.5533,-6.5669,40,DCM,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_004_SRF_0_22-1_6,2009,9,36.5533,-6.5669,5,SRF,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_007_DCM_0_22-1_6,2009,9,37.0541,1.9478,42,DCM,Westerlies Biome,Mediterranean Sea,"Mediterranean Sea, Black Sea Province"
+TARA_007_SRF_0_22-1_6,2009,9,37.051,1.9378,5,SRF,Westerlies Biome,Mediterranean Sea,"Mediterranean Sea, Black Sea Province"
+TARA_009_DCM_0_22-1_6,2009,9,39.0609,5.9422,55,DCM,Westerlies Biome,Mediterranean Sea,"Mediterranean Sea, Black Sea Province"
+TARA_009_SRF_0_22-1_6,2009,9,39.1633,5.916,5,SRF,Westerlies Biome,Mediterranean Sea,"Mediterranean Sea, Black Sea Province"
+TARA_018_DCM_0_22-1_6,2009,11,35.7528,14.2765,60,DCM,Westerlies Biome,Mediterranean Sea,"Mediterranean Sea, Black Sea Province"
+TARA_018_SRF_0_22-1_6,2009,11,35.759,14.2574,5,SRF,Westerlies Biome,Mediterranean Sea,"Mediterranean Sea, Black Sea Province"
+TARA_023_DCM_0_22-1_6,2009,11,42.1735,17.7252,55,DCM,Westerlies Biome,Mediterranean Sea,"Mediterranean Sea, Black Sea Province"
+TARA_023_SRF_0_22-1_6,2009,11,42.2038,17.715,5,SRF,Westerlies Biome,Mediterranean Sea,"Mediterranean Sea, Black Sea Province"
+TARA_025_DCM_0_22-1_6,2009,11,39.3991,19.3997,50,DCM,Westerlies Biome,Mediterranean Sea,"Mediterranean Sea, Black Sea Province"
+TARA_025_SRF_0_22-1_6,2009,11,39.3888,19.3905,5,SRF,Westerlies Biome,Mediterranean Sea,"Mediterranean Sea, Black Sea Province"
+TARA_030_DCM_0_22-1_6,2009,12,33.9235,32.8118,70,DCM,Westerlies Biome,Mediterranean Sea,"Mediterranean Sea, Black Sea Province"
+TARA_030_SRF_0_22-1_6,2009,12,33.9179,32.898,5,SRF,Westerlies Biome,Mediterranean Sea,"Mediterranean Sea, Black Sea Province"
+TARA_031_SRF_0_22-1_6,2010,1,27.16,34.835,5,SRF,Coastal Biome ,Red Sea,"Red Sea, Persian Gulf Province"
+TARA_032_DCM_0_22-1_6,2010,1,23.4183,37.245,80,DCM,Coastal Biome ,Red Sea,"Red Sea, Persian Gulf Province"
+TARA_032_SRF_0_22-1_6,2010,1,23.36,37.2183,5,SRF,Coastal Biome ,Red Sea,"Red Sea, Persian Gulf Province"
+TARA_033_SRF_0_22-1_6,2010,1,21.9467,38.2517,5,SRF,Coastal Biome ,Red Sea,"Red Sea, Persian Gulf Province"
+TARA_034_DCM_0_22-1_6,2010,1,18.4417,39.8567,60,DCM,Coastal Biome ,Red Sea,"Red Sea, Persian Gulf Province"
+TARA_034_SRF_0_22-1_6,2010,1,18.3967,39.875,5,SRF,Coastal Biome ,Red Sea,"Red Sea, Persian Gulf Province"
+TARA_036_DCM_0_22-1_6,2010,3,20.8222,63.5133,17,DCM,Coastal Biome ,Indian Ocean,Northwest Arabian Sea Upwelling Province
+TARA_036_SRF_0_22-1_6,2010,3,20.8183,63.5047,5,SRF,Coastal Biome ,Indian Ocean,Northwest Arabian Sea Upwelling Province
+TARA_037_MES_0_22-1_6,2010,3,20.8457,63.5851,600,MES,Coastal Biome ,Indian Ocean,Northwest Arabian Sea Upwelling Province
+TARA_038_DCM_0_22-1_6,2010,3,19.0284,64.5126,25,DCM,Trades Biome,Indian Ocean,Indian Monsoon Gyres Province
+TARA_038_MES_0_22-1_6,2010,3,19.0351,64.5638,340,MES,Trades Biome,Indian Ocean,Indian Monsoon Gyres Province
+TARA_038_SRF_0_22-1_6,2010,3,19.0393,64.4913,5,SRF,Trades Biome,Indian Ocean,Indian Monsoon Gyres Province
+TARA_039_DCM_0_22-1_6,2010,3,18.5839,66.4727,25,DCM,Trades Biome,Indian Ocean,Indian Monsoon Gyres Province
+TARA_039_MES_0_22-1_6,2010,3,18.7341,66.3896,270,MES,Trades Biome,Indian Ocean,Indian Monsoon Gyres Province
+TARA_041_DCM_0_22-1_6,2010,3,14.5536,70.0128,60,DCM,Trades Biome,Indian Ocean,Indian Monsoon Gyres Province
+TARA_041_SRF_0_22-1_6,2010,3,14.6059,69.9776,5,SRF,Trades Biome,Indian Ocean,Indian Monsoon Gyres Province
+TARA_042_DCM_0_22-1_6,2010,4,5.9998,73.9067,80,DCM,Trades Biome,Indian Ocean,Indian Monsoon Gyres Province
+TARA_042_SRF_0_22-1_6,2010,4,6.0001,73.8955,5,SRF,Trades Biome,Indian Ocean,Indian Monsoon Gyres Province
+TARA_045_SRF_0_22-1_6,2010,4,0.0033,71.6428,5,SRF,Trades Biome,Indian Ocean,Indian Monsoon Gyres Province
+TARA_048_SRF_0_22-1_6,2010,4,-9.3921,66.4228,5,SRF,Trades Biome,Indian Ocean,Indian South Subtropical Gyre Province
+TARA_052_DCM_0_22-1_6,2010,5,-16.9534,53.9601,75,DCM,Trades Biome,Indian Ocean,Indian South Subtropical Gyre Province
+TARA_052_SRF_0_22-1_6,2010,5,-16.957,53.9801,5,SRF,Trades Biome,Indian Ocean,Indian South Subtropical Gyre Province
+TARA_056_MES_0_22-3,2010,6,-15.3379,43.2948,1000,MES,Coastal Biome ,Indian Ocean,Eastern Africa Coastal Province
+TARA_056_SRF_0_22-3,2010,6,-15.3424,43.2965,5,SRF,Coastal Biome ,Indian Ocean,Eastern Africa Coastal Province
+TARA_057_SRF_0_22-3,2010,6,-17.0248,42.7401,5,SRF,Coastal Biome ,Indian Ocean,Eastern Africa Coastal Province
+TARA_058_DCM_0_22-3,2010,6,-17.2855,42.2866,66,DCM,Coastal Biome ,Indian Ocean,Eastern Africa Coastal Province
+TARA_062_SRF_0_22-3,2010,7,-22.3368,40.3412,5,SRF,Coastal Biome ,Indian Ocean,Eastern Africa Coastal Province
+TARA_064_DCM_0_22-3,2010,7,-29.5333,37.9117,65,DCM,Coastal Biome ,Indian Ocean,Eastern Africa Coastal Province
+TARA_064_MES_0_22-3,2010,7,-29.5046,37.9599,1000,MES,Coastal Biome ,Indian Ocean,Eastern Africa Coastal Province
+TARA_064_SRF_0_22-3,2010,7,-29.5019,37.9889,5,SRF,Coastal Biome ,Indian Ocean,Eastern Africa Coastal Province
+TARA_065_DCM_0_22-3,2010,7,-35.2421,26.3048,30,DCM,Coastal Biome ,Indian Ocean,Eastern Africa Coastal Province
+TARA_065_MES_0_22-3,2010,7,-35.1889,26.2905,850,MES,Coastal Biome ,Indian Ocean,Eastern Africa Coastal Province
+TARA_065_SRF_0_22-3,2010,7,-35.1728,26.2868,5,SRF,Coastal Biome ,Indian Ocean,Eastern Africa Coastal Province
+TARA_066_DCM_0_22-3,2010,7,-34.8901,18.0459,30,DCM,Coastal Biome ,South Atlantic Ocean,Benguela Current Coastal Province
+TARA_066_SRF_0_22-3,2010,7,-34.9449,17.9189,5,SRF,Coastal Biome ,South Atlantic Ocean,Benguela Current Coastal Province
+TARA_067_SRF_0_22-3,2010,9,-32.2401,17.7103,5,SRF,Coastal Biome ,South Atlantic Ocean,Benguela Current Coastal Province
+TARA_068_DCM_0_22-3,2010,9,-31.027,4.6802,50,DCM,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_068_MES_0_22-3,2010,9,-31.0198,4.6685,700,MES,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_068_SRF_0_22-3,2010,9,-31.0266,4.665,5,SRF,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_070_MES_0_22-3,2010,9,-20.4075,-3.1641,800,MES,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_070_SRF_0_22-3,2010,9,-20.4091,-3.1759,5,SRF,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_072_DCM_0_22-3,2010,10,-8.7296,-17.9604,100,DCM,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_072_MES_0_22-3,2010,10,-8.7986,-17.9034,800,MES,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_072_SRF_0_22-3,2010,10,-8.7789,-17.9099,5,SRF,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_076_DCM_0_22-3,2010,10,-21.0292,-35.3498,150,DCM,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_076_MES_0_22-3,2010,10,-20.9315,-35.1794,800,MES,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_076_SRF_0_22-3,2010,10,-20.9354,-35.1803,5,SRF,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_078_DCM_0_22-3,2010,11,-30.1484,-43.2705,120,DCM,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_078_MES_0_22-3,2010,11,-30.1471,-43.2915,800,MES,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_078_SRF_0_22-3,2010,11,-30.1367,-43.2899,5,SRF,Trades Biome,South Atlantic Ocean,South Atlantic Gyral Province
+TARA_082_DCM_0_22-3,2010,12,-47.2007,-57.9446,40,DCM,Coastal Biome ,South Atlantic Ocean,Southwest Atlantic Shelves Province
+TARA_082_SRF_0_22-3,2010,12,-47.1863,-58.2902,5,SRF,Coastal Biome ,South Atlantic Ocean,Southwest Atlantic Shelves Province
+TARA_084_SRF_0_22-3,2011,1,-60.2287,-60.6476,5,SRF,Polar Biome,Southern Ocean,Antarctic Province
+TARA_085_DCM_0_22-3,2011,1,-62.2231,-49.2139,90,DCM,Polar Biome,Southern Ocean,Antarctic Province
+TARA_085_MES_0_22-3,2011,1,-61.9689,-49.5017,790,MES,Polar Biome,Southern Ocean,Antarctic Province
+TARA_085_SRF_0_22-3,2011,1,-62.0385,-49.529,5,SRF,Polar Biome,Southern Ocean,Antarctic Province
+TARA_093_DCM_0_22-3,2011,3,-33.9116,-73.0537,35,DCM,Coastal Biome ,South Pacific Ocean,Chile-Peru Current Coastal Province
+TARA_093_SRF_0_22-3,2011,3,-34.0614,-73.1066,5,SRF,Coastal Biome ,South Pacific Ocean,Chile-Peru Current Coastal Province
+TARA_094_SRF_0_22-3,2011,3,-32.7971,-87.0693,5,SRF,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_096_SRF_0_22-3,2011,3,-29.7238,-101.1604,5,SRF,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_098_DCM_0_22-3,2011,4,-25.826,-111.7294,188,DCM,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_098_MES_0_22-3,2011,4,-25.8076,-111.6906,488,MES,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_098_SRF_0_22-3,2011,4,-25.8051,-111.7202,5,SRF,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_099_SRF_0_22-3,2011,4,-21.146,-104.787,5,SRF,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_100_DCM_0_22-3,2011,4,-12.9723,-96.0122,50,DCM,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_100_MES_0_22-3,2011,4,-12.9794,-96.0232,177,DCM,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_100_SRF_0_22-3,2011,4,-13.0023,-95.9759,5,SRF,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_102_DCM_0_22-3,2011,4,-5.2669,-85.2732,40,DCM,Trades Biome,South Pacific Ocean,Pacific Equatorial Divergence Province
+TARA_102_MES_0_22-3,2011,4,-5.261,-85.1678,480,MES,Trades Biome,South Pacific Ocean,Pacific Equatorial Divergence Province
+TARA_102_SRF_0_22-3,2011,4,-5.2529,-85.1545,5,SRF,Trades Biome,South Pacific Ocean,Pacific Equatorial Divergence Province
+TARA_109_DCM_0_22-3,2011,5,2.0299,-84.5546,30,DCM,Coastal Biome ,North Pacific Ocean,Chile-Peru Current Coastal Province
+TARA_109_MES_0_22-3,2011,5,2.0649,-84.5546,380,MES,Coastal Biome ,North Pacific Ocean,Chile-Peru Current Coastal Province
+TARA_109_SRF_0_22-3,2011,5,1.9928,-84.5766,5,SRF,Coastal Biome ,North Pacific Ocean,Chile-Peru Current Coastal Province
+TARA_110_DCM_0_22-3,2011,5,-1.9002,-84.6265,50,DCM,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_110_MES_0_22-3,2011,5,-1.8902,-84.6141,380,MES,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_110_SRF_0_22-3,2011,5,-2.0133,-84.589,5,SRF,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_111_DCM_0_22-3,2011,5,-16.9587,-100.6751,90,DCM,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_111_MES_0_22-3,2011,6,-16.9486,-100.6715,350,MES,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_111_SRF_0_22-3,2011,5,-16.9601,-100.6335,5,SRF,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_112_DCM_0_22-3,2011,6,-23.2189,-129.4997,155,DCM,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_112_MES_0_22-3,2011,6,-23.2232,-129.5986,696,MES,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_112_SRF_0_22-3,2011,6,-23.2811,-129.3947,5,SRF,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_122_DCM_0_22-3,2011,7,-9.0063,-139.1394,115,DCM,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_122_MES_0_22-3,2011,7,-8.9729,-139.2393,600,MES,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_122_SRF_0_22-3,2011,7,-8.9971,-139.1963,5,SRF,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_123_SRF_0_22-3,2011,7,-8.9068,-140.283,5,SRF,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_124_SRF_0_22-3,2011,8,-9.1504,-140.5216,5,SRF,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_125_SRF_0_22-3,2011,8,-8.9111,-142.5571,5,SRF,Trades Biome,South Pacific Ocean,"South Pacific Subtropical Gyre Province, North and South"
+TARA_128_DCM_0_22-3,2011,9,0.0222,-153.6858,40,DCM,Trades Biome,South Pacific Ocean,Pacific Equatorial Divergence Province
+TARA_128_SRF_0_22-3,2011,9,0.0003,-153.6759,5,SRF,Trades Biome,South Pacific Ocean,Pacific Equatorial Divergence Province
+TARA_132_DCM_0_22-3,2011,10,31.5168,-159.046,115,DCM,Westerlies Biome,North Pacific Ocean,North Pacific Subtropical and Polar Front Provinces
+TARA_132_MES_0_22-3,2011,10,31.528,-159.0224,550,MES,Westerlies Biome,North Pacific Ocean,North Pacific Subtropical and Polar Front Provinces
+TARA_132_SRF_0_22-3,2011,10,31.5213,-158.9958,5,SRF,Westerlies Biome,North Pacific Ocean,North Pacific Subtropical and Polar Front Provinces
+TARA_133_DCM_0_22-3,2011,10,35.4002,-127.7499,45,DCM,Westerlies Biome,North Pacific Ocean,North Pacific Subtropical and Polar Front Provinces
+TARA_133_MES_0_22-3,2011,10,35.2698,-127.7268,650,MES,Westerlies Biome,North Pacific Ocean,North Pacific Subtropical and Polar Front Provinces
+TARA_133_SRF_0_22-3,2011,10,35.3671,-127.7422,5,SRF,Westerlies Biome,North Pacific Ocean,North Pacific Subtropical and Polar Front Provinces
+TARA_137_DCM_0_22-3,2011,12,14.2075,-116.6468,40,DCM,Trades Biome,North Pacific Ocean,North Pacific Equatorial Countercurrent Province
+TARA_137_MES_0_22-3,2011,12,14.2025,-116.6433,375,MES,Trades Biome,North Pacific Ocean,North Pacific Equatorial Countercurrent Province
+TARA_137_SRF_0_22-3,2011,12,14.2035,-116.6261,5,SRF,Trades Biome,North Pacific Ocean,North Pacific Equatorial Countercurrent Province
+TARA_138_DCM_0_22-3,2011,12,6.3378,-102.9538,60,DCM,Trades Biome,North Pacific Ocean,North Pacific Equatorial Countercurrent Province
+TARA_138_MES_0_22-3,2011,12,6.3559,-103.0598,450,MES,Trades Biome,North Pacific Ocean,North Pacific Equatorial Countercurrent Province
+TARA_138_SRF_0_22-3,2011,12,6.3332,-102.9432,5,SRF,Trades Biome,North Pacific Ocean,North Pacific Equatorial Countercurrent Province
+TARA_140_SRF_0_22-3,2011,12,7.4122,-79.3017,5,SRF,Coastal Biome ,North Pacific Ocean,Benguela Current Coastal Province
+TARA_141_SRF_0_22-3,2011,12,9.8481,-80.0454,5,SRF,Coastal Biome ,North Atlantic Ocean,Guianas Coastal Province
+TARA_142_DCM_0_22-3,2012,1,25.6168,-88.4532,125,DCM,Coastal Biome ,North Atlantic Ocean,Caribbean Province
+TARA_142_MES_0_22-3,2012,1,25.6236,-88.45,640,MES,Coastal Biome ,North Atlantic Ocean,Caribbean Province
+TARA_142_SRF_0_22-3,2012,1,25.5264,-88.394,5,SRF,Coastal Biome ,North Atlantic Ocean,Caribbean Province
+TARA_145_MES_0_22-3,2012,2,39.2392,-70.0343,590,MES,Westerlies Biome,North Atlantic Ocean,Gulf Stream Province
+TARA_145_SRF_0_22-3,2012,2,39.2305,-70.0377,5,SRF,Westerlies Biome,North Atlantic Ocean,Gulf Stream Province
+TARA_146_MES_0_22-3,2012,2,34.6663,-71.2907,640,MES,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_146_SRF_0_22-3,2012,2,34.6712,-71.3093,5,SRF,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_148_SRF_0_22-3,2012,2,31.6948,-64.2489,5,SRF,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_148b_MES_0_22-3,2012,2,34.1504,-56.9684,250,MES,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_149_MES_0_22-3,2012,3,34.0771,-49.8233,740,MES,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_149_SRF_0_22-3,2012,3,34.1132,-49.9181,5,SRF,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_150_DCM_0_22-3,2012,3,35.8427,-37.1526,40,DCM,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_150_SRF_0_22-3,2012,3,35.9346,-37.3032,5,SRF,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_151_DCM_0_22-3,2012,3,36.1811,-28.9373,80,DCM,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_151_SRF_0_22-3,2012,3,36.1715,-29.023,5,SRF,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_152_MES_0_22-3,2012,3,43.7182,-16.8714,800,MES,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
+TARA_152_SRF_0_22-3,2012,3,43.6792,-16.8344,5,SRF,Westerlies Biome,North Atlantic Ocean,North Atlantic Subtropical Gyral Province
