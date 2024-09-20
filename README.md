@@ -1,10 +1,13 @@
 Project Overview
+
 This project is aimed at designing and implementing an interactive multi-coordinated view visualization tool to analyze ocean microbiome data. The tool is intended to assist microbiologists and other biological science researchers in gaining insights into marine microbial communities, specifically focusing on exploring the abundance patterns and diversity of microorganisms in different ocean regions.
 
 Data Description
+
 The dataset comprises 135 samples with 35,650 operational taxonomic units (OTUs), representing the detection levels of microbes. These OTUs are classified hierarchically according to taxonomy, with each OTU associated with a unique identifier and relative abundance percentages for each sample. Additional metadata include sampling year, month, latitude, longitude, depth, and regional classifications.
 
 Key Features
+
 Interactive Visualization: The tool supports interactive exploration of microbial abundance and diversity patterns.
 
 Multiple Coordinated Views: Incorporates multiple views synchronized to facilitate comparative analysis.
