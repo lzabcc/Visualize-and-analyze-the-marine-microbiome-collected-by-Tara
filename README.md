@@ -47,3 +47,19 @@ Abundance Heatmap: Displays the relative abundance of OTUs across samples.
 Geographical Map: Integrates sample locations with abundance patterns.
 
 Histograms and Scatter Plots: Provides detailed distribution and correlation analysis.
+
+
+![image](https://github.com/user-attachments/assets/bc4bbb98-a7d0-4c79-821c-ffdab125c458)
+World_Map
+
+![image](https://github.com/user-attachments/assets/fe4a080e-8e41-4eee-837f-706eca4d138a)
+PCA
+
+![image](https://github.com/user-attachments/assets/361822f7-2e51-42eb-92aa-cee8505a3e00)
+Bar chart of sumAbundance-rank&category
+
+![image](https://github.com/user-attachments/assets/c4220cff-6bb2-4e87-903d-62093d5d30ea)
+Random Sampling
+
+
+
